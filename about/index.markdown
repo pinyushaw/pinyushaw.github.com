@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About Gereksiz
+layout: basic
+title: About
 ---
+## About
 
 Gereksiz is a minimalist Jekyll theme, based on the default Jekyll theme. It is responsive, generates JSON and Atom feeds on each build, and can be easily extended. It uses Open Sans from Google Fonts.
 
@@ -14,3 +15,8 @@ Gereksiz is a minimalist Jekyll theme, based on the default Jekyll theme. It is 
 
 [github]: https://github.com/berkoz/gereksiz/
 [bob]: http://bugsofberk.net
+
+
+
+
+[« Return to the home page](/)

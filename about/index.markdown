@@ -4,17 +4,14 @@ title: About
 ---
 ## About
 
-Gereksiz is a minimalist Jekyll theme, based on the default Jekyll theme. It is responsive, generates JSON and Atom feeds on each build, and can be easily extended. It uses Open Sans from Google Fonts.
+I'm pinyu, a 22-year-old hacker.
 
-> It supports blockquotes, too.
+## py on the Internet
 
-## Gereksiz on the Internet
+* [GitHub][github]
+* Email: x.py[at]outlook.com
 
-* [Gereksiz][github] on GitHub
-* [Bugs of Berk][bob], theme creator's website
-
-[github]: https://github.com/berkoz/gereksiz/
-[bob]: http://bugsofberk.net
+[github]: https://github.com/pinyushaw
 
 
 

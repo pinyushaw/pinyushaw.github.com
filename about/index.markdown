@@ -4,7 +4,7 @@ title: About
 ---
 ## About
 
-I'm pinyu, a 22-year-old hacker.
+I'm pinyu, oh yeah!
 
 ## py on the Internet
 

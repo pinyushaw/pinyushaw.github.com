@@ -1,0 +1,24 @@
+---
+layout: post
+title: "偶像列表"
+date: 2015-09-05 20:44:41
+---
+
+My heroes. 排名分先后，但不重要。
+
+* Sean Parker
+* 小野二郎
+* 周星驰
+* Allen Iverson
+* 唐岩
+* Paul Graham 
+* Jason Fried
+* 罗永浩
+* 村上春树
+* Nassim Nicholas Taleb
+* 漂亮的女人们
+
+
+
+
+

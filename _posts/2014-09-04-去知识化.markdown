@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "去知识化
+title: "去知识化"
 date: 2015-09-04 20:00:41
 ---
 

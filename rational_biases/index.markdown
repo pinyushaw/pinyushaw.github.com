@@ -2,9 +2,7 @@
 layout: basic
 title: Quotes
 ---
-## Quotes
-
-> 人多的地方不要去。
+## Rational Biases
 
 
 [« Return to the home page](/)
